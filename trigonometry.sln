@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trigonometry", "trigonometry\trigonometry.csproj", "{44748B47-8B7D-4A5B-A15A-8076446DF053}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44748B47-8B7D-4A5B-A15A-8076446DF053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44748B47-8B7D-4A5B-A15A-8076446DF053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44748B47-8B7D-4A5B-A15A-8076446DF053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44748B47-8B7D-4A5B-A15A-8076446DF053}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28893A95-900E-455B-901E-7D5C33CF896F}
+	EndGlobalSection
+EndGlobal
